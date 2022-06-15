@@ -156,9 +156,9 @@
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c04ca3c256584bc1a7b94555e9ca0332"
 		},
 		{
-			"Name": "NeoKinectUnreal",
+			"Name": "UltraleapTracking",
 			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/130cfe979a6e4159b634d4b1d23e60da"
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/bee1e122fcae438abb50441ee6286d92"
 		}
 	]
 }
